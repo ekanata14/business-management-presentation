@@ -738,7 +738,7 @@ export default function Home() {
                 <br />{" "}
                 <strong>
                   Produk Konsumen Bermerek (CBP), Bogasari, Agribisnis dan
-                  distribusi
+                  Distribusi
                 </strong>
               </p>
             </div>
